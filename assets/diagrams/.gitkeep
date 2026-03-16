@@ -1,0 +1,34 @@
+# AEON Core - Assets Directory
+
+This directory contains visual assets for the AEON Core project.
+
+## Contents
+
+### /diagrams
+- Architecture diagrams
+- Protocol flowcharts
+- System topology visuals
+- Consciousness transfer diagrams
+
+### /screenshots (optional)
+- Demo screenshots
+- Simulation outputs
+- UI mockups
+
+## File Formats
+
+Recommended formats:
+- Diagrams: `.svg`, `.png` (vector preferred)
+- Screenshots: `.png`
+- Videos: `.mp4` (short demos only)
+
+## Git Note
+
+The `.gitkeep` file ensures this directory is tracked by Git even when empty.
+
+Add actual assets as the project develops.
+
+---
+
+AEON Core - Assets Division
+Version 1.0 | 2025

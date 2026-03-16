@@ -1,0 +1,139 @@
+AEON Core License — Custom Attribution + Notification License
+
+Copyright (c) 2025 Штерн Крис Сергеевич (Kris S. Stern)
+
+===============================================================================
+SUMMARY (Human-Readable)
+===============================================================================
+
+YOU CAN:
+✅ Read, study, and learn from this code
+✅ Use this code in personal projects
+✅ Modify and experiment with the code
+✅ Share the code with attribution
+
+YOU MUST:
+✅ Credit the original author: "AEON Core by Kris S. Stern"
+✅ Notify the author before commercial use: scos_system2026@mail.ru
+✅ Keep this license file intact in all distributions
+✅ Respect the SCOS Integration Clause (see below)
+
+YOU CANNOT:
+❌ Claim authorship of the original work
+❌ Use this code to harm, deceive, or exploit others
+❌ Bypass the SCOS safety integration requirements
+❌ Use the project name "AEON" or "SCOS" for endorsement without permission
+
+===============================================================================
+SCOS INTEGRATION CLAUSE (CRITICAL)
+===============================================================================
+
+This project integrates with SCOS (Secure City Operating System) Intent Core.
+
+SCOS is a joint project with shared rights. Any use of AEON Core that involves:
+- SCOS bridge modules (scos-bridge/)
+- Intent validation protocols
+- Safety layer integrations
+
+REQUIRES:
+1. Prior written notification to the author: scos_system2026@mail.ru
+2. Description of intended use case and deployment context
+3. Agreement to maintain SCOS safety constraints without modification
+4. Attribution to both AEON Core and SCOS Intent Core projects
+
+SCOS-related code cannot be:
+- Separated from its safety validation logic
+- Modified to bypass intent checking
+- Used in systems that do not respect consciousness continuity principles
+
+===============================================================================
+LEGAL TERMS
+===============================================================================
+
+1. DEFINITIONS
+   - "Licensor": Штерн Крис Сергеевич (Kris S. Stern)
+   - "Licensee": Any person or entity using this software
+   - "Work": The AEON Core codebase and documentation
+   - "SCOS Components": Any code in scos-bridge/ or referencing SCOS protocols
+
+2. GRANT OF RIGHTS
+   Licensor grants Licensee a non-exclusive, worldwide, royalty-free license to:
+   a) Use the Work for personal, educational, and research purposes
+   b) Modify the Work for personal use
+   c) Distribute unmodified copies with attribution
+
+3. CONDITIONS
+   All uses of the Work are subject to:
+   a) Attribution: Credit must appear in all copies or substantial portions
+   b) Notification: Commercial or public deployment requires prior notice
+   c) SCOS Protection: SCOS components retain additional restrictions (see above)
+   d) No Harm: Work cannot be used for malicious, deceptive, or harmful purposes
+
+4. SCOS-SPECIFIC RESTRICTIONS
+   a) SCOS Components cannot be extracted and used independently
+   b) Intent validation logic must remain intact and unmodified
+   c) Any system using SCOS integration must maintain safety constraints
+   d) Author retains approval rights over SCOS-related deployments
+
+5. NOTIFICATION REQUIREMENT
+   Before any public, commercial, or production use, Licensee must:
+   a) Email scos_system2026@mail.ru with:
+      - Intended use case
+      - Deployment context (personal/commercial/research)
+      - Whether SCOS components are involved
+      - Expected scale of usage
+   b) Await acknowledgment (response within 14 business days)
+   c) Include acknowledgment reference in project documentation
+
+6. NO WARRANTY
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+   LICENSOR IS NOT LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE WORK.
+
+7. TERMINATION
+   This license terminates automatically if Licensee:
+   a) Violates the SCOS Integration Clause
+   b) Fails to provide required attribution
+   c) Uses the Work for harmful purposes
+   d) Ignores the notification requirement for commercial use
+
+8. GOVERNING LAW
+   This license is governed by the laws of the Russian Federation.
+   Any disputes shall be resolved in courts of competent jurisdiction.
+
+===============================================================================
+ATTRIBUTION TEMPLATE
+===============================================================================
+
+When using AEON Core, include this notice:
+
+"""
+This project uses AEON Core (https://github.com/krisstern9-create/aeon-core)
+by Штерн Крис Сергеевич, licensed under AEON Core Custom License.
+
+SCOS Integration: This project integrates SCOS Intent Core 
+(https://github.com/krisstern9-create/-scos-intent-core) for safety validation.
+SCOS components are subject to additional usage restrictions.
+"""
+
+===============================================================================
+CONTACT
+===============================================================================
+
+Author: Штерн Крис Сергеевич (Kris S. Stern)
+Email: scos_system2026@mail.ru
+Telegram: @tm./scossystem
+GitHub: https://github.com/krisstern9-create
+
+For SCOS-related inquiries or integration requests:
+Please reference both AEON Core and SCOS Intent Core repositories.
+
+===============================================================================
+VERSION HISTORY
+===============================================================================
+
+v1.0 (2025-03-16): Initial license with SCOS protection clause
+v0.9 (2025-03-15): Draft for review
+
+===============================================================================
+END OF LICENSE
+===============================================================================
